@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;p0&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../src/github.com" />
+      <root url="file://$PROJECT_DIR$/../src/hello" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/go/callgraph/rta/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/go/ssa/ssautil/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/go/callgraph/cha/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/oracle/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/cmd/guru/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/.git" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/go/ssa/interp/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/refactor/eg/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/cmd/bundle/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/net/bpf/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/go/pointer/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/net/.git" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/cmd/fiximports/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/cmd/callgraph/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/go/ssa/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/cmd/stringer/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/go/loader/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tour/.git" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/cmu440/p0/.git" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/cmd/cover/testdata" />
+      <root url="file://$PROJECT_DIR$/../src/github.com/Go-zh/tools/go/gcimporter15/testdata" />
+    </excluded>
+  </library>
+</component>
